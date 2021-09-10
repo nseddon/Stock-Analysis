@@ -5,11 +5,11 @@ Our client (Steve) requested an analysis of the Stock Market for the years of 20
 
 The client also requested formatting of the document to include "ease of read" features.  To accomodate this, conditional formatting was implemented to indicate positve and negative yearly performance.
 
-
-
+After completing initial project, the code was refactored to allow for more data to be processed for future stock analysis.  The refactored code is more efficient in processing time, with the same results as the previous code (examples below).
 
 ### Results
-Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
+- Stock Analysis Results
+  In 2017, Daqo (DQ) traded a volume of 35,796,200, and showed a return of 199.4% in the positive.  However, in 2018, Daqo (DQ) traded a volume of 107,873,900, and showed a return for 62.6% in the negative.  While the trading volume showed a significant increase in 2017 compared to 2017, the return at close of 2018 was in a steady downward trend.  The only two Stocks that had a positive trend return for both 2017 and 2018 were (ENPH) and (RUN).
 
 
 #### Summary
