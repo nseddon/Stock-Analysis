@@ -15,7 +15,7 @@ After completing initial project, the code was refactored to allow for more data
 
 -Refactoring Code Rune Time Results
   - 2017 Run Times
-  - ![Green_Stocks_2017.png](https://github.com/nseddon/Stock-Analysis/blob/main/Module_Prep/green_stocks_2017.png) ![VBA_Challenge_2017.png](https://github.com/nseddon/Stock-Analysis/blob/main/Resources/VBA_Challenge_2017.png)
+![Green_Stocks_2017.png](https://github.com/nseddon/Stock-Analysis/blob/main/Module_Prep/green_stocks_2017.png) ![VBA_Challenge_2017.png](https://github.com/nseddon/Stock-Analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
 ### Attachments
 1. [VBA_Challenge.xlsx](https://github.com/nseddon/Stock-Analysis/blob/main/VBA_Challenge.xlsm) - Spreadsheet containing raw data and analysis tabs.
