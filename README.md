@@ -13,8 +13,8 @@ After completing initial project, the code was refactored to allow for more data
 
 ### Attachments
 1. [Kickstarter_Challenge.xlsx](https://github.com/nseddon/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx) - Spreadsheet containing raw data and analysis tabs.
-2. [Kickstarter_Challenge.xlsx](https://github.com/nseddon/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx) - Spreadsheet containing raw data and analysis tabs.
-3. [Kickstarter_Challenge.xlsx](https://github.com/nseddon/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx) - Spreadsheet containing raw data and analysis tabs.
+2. [VBA_Challenge_2017.png](https://github.com/nseddon/Stock-Analysis/blob/main/Resources/VBA_Challenge_2017.png) - Runtime report for VBA_Challenge for 2017 data.
+3. [VBA_Challenge_2018.png](https://github.com/nseddon/Stock-Analysis/blob/main/Resources/VBA_Challenge_2018.png) - Runtime report for VBA_Challenge for 2018 data.
 
 
 #### Summary
