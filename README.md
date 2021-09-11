@@ -22,6 +22,8 @@ After completing initial project, the code was refactored to allow for more data
 
 ![Green_Stocks_2018.png](https://github.com/nseddon/Stock-Analysis/blob/main/Module_Prep/green_stocks_2018.png) ![VBA_Challenge_2018.png](https://github.com/nseddon/Stock-Analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
+As can be seen in the examples presented, the initial implementation of the code (left images) took considerably longer to run than the refactored code (right images).  While this time may seem minor with the limited data used for the requested analysis, larger datasets would suffer from exponential increases in runtime of the intial code.  The refactored code will allow for shorter run times, even with larger data sets.
+
 ### Attachments
 1. [VBA_Challenge.xlsx](https://github.com/nseddon/Stock-Analysis/blob/main/VBA_Challenge.xlsm) - Spreadsheet containing raw data and analysis tabs.
 2. [VBA_Challenge_2017.png](https://github.com/nseddon/Stock-Analysis/blob/main/Resources/VBA_Challenge_2017.png) - Runtime report for VBA_Challenge for 2017 data.
