@@ -40,7 +40,8 @@ As can be seen in the examples presented, the initial implementation of the code
     - Elimination of code duplication and existing bugs.
     - Better code readability allowing for teams to further refactor the code as needed for future projects. 
   - Disadvantages include
-    - Increase in time needed to complete the project (financial and personnel availability)
+    - Increase in time needed to complete the project (financial and personnel availability implications)
     - Possibility of introduction of new bugs.
   
 - How do these pros and cons apply to refactoring the original VBA script?
+For this project, the time required for refactoring of the code was minimal.  The existing code was also able to be rewritten with few additions needed, preventing a large amount of bugs to be introduced.  For the client, the refactoring was completed the same day as the original code.  With the refactored code, the client now has the ability to process larger datasets, and in a shorter timeframe.  So the client has recieved a product that will be able to generate data for them into the foreseeable future.  Should the client want additional upgrades to the product in the future, another analyst will be able to perform the upgrades (based on coding refactoring and comments) should the original analyst be unavailable.
