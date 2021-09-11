@@ -14,6 +14,7 @@ After completing initial project, the code was refactored to allow for more data
   - While the trading volume showed a significant increase in 2017 compared to 2017, the return at close of 2018 was in a steady downward trend.  The only two Stocks that had a positive trend return for both 2017 and 2018 were (ENPH) and (RUN).
 
 - Refactoring Code Rune Time Results
+
 2017 Run Times
 
 ![Green_Stocks_2017.png](https://github.com/nseddon/Stock-Analysis/blob/main/Module_Prep/green_stocks_2017.png) ![VBA_Challenge_2017.png](https://github.com/nseddon/Stock-Analysis/blob/main/Resources/VBA_Challenge_2017.png)
