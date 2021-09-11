@@ -17,8 +17,8 @@ After completing initial project, the code was refactored to allow for more data
 
 2017 Run Times
 
-<img src="https://github.com/nseddon/Stock-Analysis/blob/main/Module_Prep/green_stocks_2017.png" width="200" /> 
-<img src="https://github.com/nseddon/Stock-Analysis/blob/main/Resources/VBA_Challenge_2017.png" width="200" />
+<img src="https://github.com/nseddon/Stock-Analysis/blob/main/Module_Prep/green_stocks_2017.png" width="400" /> 
+<img src="https://github.com/nseddon/Stock-Analysis/blob/main/Resources/VBA_Challenge_2017.png" width="400" />
 
 2018 Run Times
 
